@@ -1,3 +1,3 @@
-@ercho off
+@echo off
 echo sooch
 pause
